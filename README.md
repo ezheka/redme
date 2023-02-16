@@ -37,7 +37,15 @@
 ## Пользовательский интерфейс
 Для пользовательского интерфейса было использоваано решение [пользовательского UI от Naninovel](https://naninovel.com/ru/guide/user-interface.html#%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-ui)
 
-Префабы UI храняться в [Assets->Prefabs->UI](https://github.com/senomegames/Jungle-2022-naninovel/tree/main/Assets/Prefabs/UI)
+Префабы UI храняться в [Assets->Prefabs->UI](https://github.com/senomegames/Jungle-2022-naninovel/tree/main/Assets/Prefabs/UI)     
 Спрайты для UI в [Assets->Sprites](https://github.com/senomegames/Jungle-2022-naninovel/tree/main/Assets/Sprites)
 
 Инструкция по настройке интерфейса по [ссылке](https://naninovel.com/ru/guide/user-interface.html#%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-ui)
+
+## Локализация
+Локализация для сценариев хранится в таблице со сценарием. Локализация для мини-игр и меню храница в [Assets->Resources->Naninovel->Text](https://github.com/senomegames/Jungle-2022-naninovel/tree/main/Assets/Resources/Naninovel/Text)
+
+Инструкция по [ссылке](https://naninovel.com/ru/guide/localization.html#%D0%BB%D0%BE%D0%BA%D0%B0n%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
+
+## Архитектруа
+Архитектура проекта строится на Naninovel. [Подробнее](https://naninovel.com/ru/guide/localization.html#%D0%BB%D0%BE%D0%BA%D0%B0n%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
